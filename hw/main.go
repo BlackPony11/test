@@ -78,12 +78,5 @@ func flipSlice(input []string) []string {
 }
 
 func main() {
-	/*fmt.Println(ReturnInt())
-	fmt.Println(ReturnFloat())
-	fmt.Println(ReturnIntArray())
-	fmt.Println(ReturnIntSlice())
-	y := []int{17, 23, 100500}
-	fmt.Println(IntSliceToString(y))
-	*/
 
 }
